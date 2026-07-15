@@ -1,0 +1,5 @@
+n=int(input("enter no")
+original =n
+rev=0
+while n>0:
+    re 
